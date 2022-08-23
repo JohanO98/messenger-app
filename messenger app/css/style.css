@@ -1,0 +1,41 @@
+body,html {
+    margin: 0;
+    background-color: #781C68;
+    width: 100vw;
+    height: 100vh;
+}
+.header {
+    background-color: #319DA0;
+    min-width: 100%;
+    height: 6rem;
+    box-shadow: #209DA0;
+    font-family: 'Silkscreen', cursive, sans-serif;
+    display: flex;
+    align-items: center;
+    
+}
+
+.header-title {
+    margin: 0;
+    margin-left: 2rem;
+    font-size: 4rem;
+}
+
+.container {
+    display: flex;
+    width: 100vw;
+}
+
+.left-panel {
+    width: 25%;
+    height: 100vh;
+    background-color: #FFD39A;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.left-panel{
+    
+}
+
